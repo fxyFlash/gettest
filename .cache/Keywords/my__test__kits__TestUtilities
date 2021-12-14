@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0EA62AF3FE6554EE9C756F7BB023707A",
+  "keywordClasses": [
+    {
+      "name": "my.test.kits.TestUtilities",
+      "keywordMethods": [
+        {
+          "name": "CheckItemExists",
+          "parameters": [
+            {
+              "name": "obj",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

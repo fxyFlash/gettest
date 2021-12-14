@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testfordesign</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0d023c8-3afe-4847-bfe5-a14f5d7807ed</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('testUsers').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ab822c06-7bff-49f9-9f6b-b4dfe8359a22</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('testUsers').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>d779b4f6-a03b-4341-9749-4f7000cdaab5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
